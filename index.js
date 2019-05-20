@@ -9,6 +9,6 @@ function happyHolidaysTo(name) {
 }
 
 //holiday greeting with variables holiday and name
-function happyHolidaysTo(holiday, name) {
+function happyHolidayTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`
 }
